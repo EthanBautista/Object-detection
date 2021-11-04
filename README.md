@@ -21,4 +21,4 @@ pip install --upgrade imutils
 
 5. Grab what ever video you like and put it into the "data" folder. 
 
-6. In command prompt, type "python3 video_object_counter_caffemodel.py --video video_filename", then enjoy. 
+6. In command prompt, type "python3 videodetection.py --video data/traffic.mp4", then enjoy. 
